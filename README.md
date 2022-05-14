@@ -12,7 +12,6 @@ Muestra el uso de:
     <li>scanf</li>
     <li>El uso de include para las librerias</li>
     <li>condicional if-else</li>
-    <li>condicional ternario</li>
 <li>Comentarios para la doumentación interna del programa.</li>
     </ul>
     </p>
