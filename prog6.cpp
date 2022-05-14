@@ -29,7 +29,7 @@ int main() {
 else {
 	descuento=total*0.05;
 }
-
+//salida
 printf("Subtotal:\t $%10.2f\n", total);
 printf("Descuento:\t-$%10.2f\n", descuento);
 printf("\t\t--------\n");
