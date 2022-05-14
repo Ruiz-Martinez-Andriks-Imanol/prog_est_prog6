@@ -13,7 +13,6 @@ Muestra el uso de:
 	-Comentarios para la doumentación interna del programa.
 */
 #include<stdio.h>
-
 int main() {
 	//Declaración
 	int arduinos;
