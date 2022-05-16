@@ -21,6 +21,7 @@ Muestra el uso de:
 <p><b>Breve descripción:</b>
 Este  es un Programa para una tienda de Arduinos, en dicha tienda existe una promoción.
 <br>
+ <br>
 Si llevan mínimo 5 arduinos, se les hace el 15% de descuento, si no, solo el 5%. Cada Arduino tiene un costo de $350.00.
 <br>
 El programa pedira la cantidad de arduinos y calculara el total a pagar <br>
